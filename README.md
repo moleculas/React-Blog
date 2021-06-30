@@ -4,7 +4,7 @@ Plantilla para desarrollo de blog implementada con [React](https://es.reactjs.or
 
 ## Demo
 
-Demo: [http://desarrollos.artikaweb.com/blog](http://desarrollos.artikaweb.com/blog)
+Demo: [http://desarrollos.artikaweb.com/](http://desarrollos.artikaweb.com/)
 
 ## Como...
 
